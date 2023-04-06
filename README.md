@@ -1,2 +1,2 @@
-# good-habit
+# Good-habit
 Ghabit
